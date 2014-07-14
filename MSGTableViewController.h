@@ -1,5 +1,5 @@
 //
-//  MSGViewController.h
+//  MSGTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Manprit Gill on 14/07/2014.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface MSGViewController : UIViewController
+@interface MSGTableViewController : UITableViewController
 
 @end
